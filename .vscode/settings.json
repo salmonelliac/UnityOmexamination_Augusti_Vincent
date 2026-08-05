@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "UnityOmexamination_Augusti.slnx",
+    "dotnet.defaultSolution": "UnityOmexamination_Augusti_Vincent.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
